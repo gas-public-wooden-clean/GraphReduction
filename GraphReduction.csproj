@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>CER.GraphReduction</AssemblyName>
+    <RootNamespace>CER.GraphReduction</RootNamespace>
+    <Configurations>Debug</Configurations>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AssemblyTitle>CER.Json.dll</AssemblyTitle>
+    <Product>JSON</Product>
+    <NeutralLanguage>en</NeutralLanguage>
+    <Description>Graph Reduction and Visualization</Description>
+    <Copyright>Copyright © 2022</Copyright>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+    <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <CodeAnalysisRuleSet>StaticAnalysis.ruleset</CodeAnalysisRuleSet>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+  </PropertyGroup>
+
+</Project>
